@@ -1,3 +1,12 @@
+# Project Overview
+An Arduino Uno-based automatic soap dispenser using an infrared sensor and an R280 diaphragm pump powered by a 3.7 Lithium-Ion battery
+
+The system schematic can be found on `docs/schematics`
+
+The wiring diagram can be found on  `docs/wiring diagram`
+
+The demo video can be found on `media`
+
 # System Overview 
 - The Arduino Uno is powered via the USB-B bus
 - The R280 Diaphragm Pump is powered with the 3.7V Lithim-Ion Battery
