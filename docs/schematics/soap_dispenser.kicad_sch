@@ -2410,7 +2410,7 @@
 			(uuid "a4fe1d43-b72e-46ef-9e54-6a42e4caafdf")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "#PWR02")
 					(unit 1)
@@ -2488,7 +2488,7 @@
 			(uuid "49179011-0ff2-42a4-bf56-849707a8162d")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "#PWR03")
 					(unit 1)
@@ -2661,7 +2661,7 @@
 			(uuid "bfb98919-c991-4e86-8839-97ea3ba95241")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "A1")
 					(unit 1)
@@ -2776,7 +2776,7 @@
 			(uuid "7a1f9c6d-241f-4634-8ca6-774a62acff85")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "BT1")
 					(unit 1)
@@ -2861,7 +2861,7 @@
 			(uuid "a984d497-7143-4740-a40d-501d03440871")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "J1")
 					(unit 1)
@@ -2941,7 +2941,7 @@
 			(uuid "afda5ebe-fcd8-4bd2-95c6-4385aa7e8a31")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "M1")
 					(unit 1)
@@ -2962,7 +2962,7 @@
 		(fields_autoplaced yes)
 		(uuid "9096059f-010c-4bb6-a3e0-0b0e67c9702b")
 		(property "Reference" "Q1"
-			(at 147.066 117.8559 0)
+			(at 147.32 117.8559 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2972,8 +2972,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1RLZ44N MOSFET"
-			(at 147.066 120.3959 0)
+		(property "Value" "IRLZ44N MOSFET"
+			(at 147.32 120.3959 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3029,7 +3029,7 @@
 			(uuid "84b647b2-9ee8-4145-9fad-014aa81d76a6")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "Q1")
 					(unit 1)
@@ -3108,7 +3108,7 @@
 			(uuid "2ffb0096-0b95-419a-b258-1a51e2506189")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "#PWR01")
 					(unit 1)
@@ -3186,7 +3186,7 @@
 			(uuid "a172a8d7-cde3-4fd0-8621-d22b5941161a")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "#PWR04")
 					(unit 1)
@@ -3264,7 +3264,7 @@
 			(uuid "daa5ef2c-3b11-4d9c-afef-c137b6fc570e")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "#PWR06")
 					(unit 1)
@@ -3368,7 +3368,7 @@
 			(uuid "24f394ff-fdc1-455a-9687-cffd9c69c42b")
 		)
 		(instances
-			(project "self_charge"
+			(project "soap_dispenser"
 				(path "/62ccd462-d44e-41d8-96cb-b7e5dd7d1810"
 					(reference "D1")
 					(unit 1)
